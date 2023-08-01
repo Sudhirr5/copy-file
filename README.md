@@ -20,6 +20,11 @@ write the text of text file 1 in text file 2 using read() and write()
 end the program
 ## PROGRAM:
 ```python
+'''
+copying the contents from one file to another file.
+# Developed by: R SUDHIR KUMAR
+# Register number: 23000604
+'''
 from google.colab import drive
 drive.mount('/content/drive')
 
